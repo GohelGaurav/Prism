@@ -13,7 +13,7 @@ import 'package:optimized_cached_image/widgets.dart';
 import 'package:palette_generator/palette_generator.dart';
 import 'package:provider/provider.dart';
 import 'package:Prism/theme/toasts.dart' as toasts;
-import 'package:sliding_up_panel/sliding_up_panel.dart';
+//import 'package:sliding_up_panel/sliding_up_panel.dart';
 
 class FavWallpaperViewScreen extends StatefulWidget {
   final List arguments;
